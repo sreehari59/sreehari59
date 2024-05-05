@@ -4,7 +4,7 @@
 * :office: Work -> 
   - NLP Tasks using LLM's
   - Developing end-to-end pipeline using AWS
-  - Tec used -> <img src="https://skillicons.dev/icons?i= ai, py, pytorch, git,kubernetes,docker,aws" />
+  - Tec used -> <img src="https://skillicons.dev/icons?i= py, pytorch, git,kubernetes,docker,aws" />
 * :computer: Making progress on -> AI detectors for synthetic generated images and text [GANs, Diffusion models]
 * :closed_book: Researching -> Into doc similarity using LongForm transformers, adversarial attacks on AI image detectors
 * :mailbox: Reach me -> Email or linkedin 
