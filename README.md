@@ -4,9 +4,10 @@
 * :office: Work -> 
   - NLP Tasks using LLM's
   - Developing end-to-end pipeline using AWS
-  - <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws" />
-* :computer: Making progress on -> AI detectors for synthetic generated images and text
-* :closed_book: Researching into adversarial attacks on AI detectors
+  - Tec used -> <img src="https://skillicons.dev/icons?i= ai, py, pytorch, git,kubernetes,docker,aws" />
+* :computer: Making progress on -> AI detectors for synthetic generated images and text [GANs, Diffusion models]
+* :closed_book: Researching -> Into doc similarity using LongForm transformers, adversarial attacks on AI image detectors
+* :mailbox: Reach me -> Email or linkedin 
  
  
 * :bulb: -> It's not about how many times you fall that counts. It's about how many times you get back up.
@@ -26,4 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Look into this this link for tech related icons -> https://github.com/tandpfun/skill-icons
+Look into this this link for enoji related icons -> https://gist.github.com/rxaviers/7360908
+Look into this this link for status in readme ->https://github.com/anuraghazra/github-readme-stats
 -->
