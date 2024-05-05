@@ -2,6 +2,8 @@
 
 :warning: Alert!! May cause spontaneous code bursts. Enter at your own risk! :grin: :grin: :grin:
 * :office: Work -> NLP Tasks using LLM's
+  - NLP Tasks using LLM's
+  - NLP Tasks using LLM's
 * :computer: Making progress on -> AI detectors for synthetic generated images and text
 * :closed_book: Researching into adversarial attacks on AI detectors
  
