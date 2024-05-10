@@ -11,7 +11,7 @@
     - Into doc similarity using LongForm transformers
     - Adversarial attacks on AI image detectors
 * :mailbox: Reach me -> Email or linkedin
-* :technologist: Techs used -> <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,kubernetes,docker,aws,anaconda,java" />
+* :technologist: Languages and tools used -> <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,kubernetes,docker,aws,anaconda,java" />
 * :bulb: -> It's not about how many times you fall that counts. It's about how many times you get back up.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari59&langs_count=8&layout=compact&theme=merko" />
