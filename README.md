@@ -3,12 +3,12 @@
 :warning: Alert!! May cause spontaneous code bursts. Enter at your own risk! :grin: :grin: :grin:
 * :office: Work -> 
   - NLP Tasks using LLM's
-  - Synthetic text generation using LLM's [LLama, GPT]
+  - Agentic AI
   - Developing end-to-end pipeline using AWS
   - Container orchestration to manage and deploy the pipeline efficiently in AWS 
-* :computer: Making progress on -> AI detectors for synthetic generated images [GANs, Diffusion models]
+* :computer: Making progress on -> Multi agents -> Reinforcement learning
 * :closed_book: Researching ->
-    - Into doc similarity using LongForm transformers
+    - Boiler plate detection for German Privacy policy
     - Adversarial attacks on AI image detectors
 * :mailbox: Reach me -> Email or linkedin
 * :technologist: Languages and tools used -> <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,kubernetes,docker,aws,anaconda,java" />
