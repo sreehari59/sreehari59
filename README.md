@@ -2,11 +2,11 @@
 
 :warning: Alert!! May cause spontaneous code bursts. Enter at your own risk! :grin: :grin: :grin:
 * :office: Work -> 
-  - NLP Tasks using LLM's
-  - Agentic AI
+  - NLP Tasks using Mutli Agents, LLM's
+  - Agentic Mutlimodal RAG, Recommendation system, optimizing ML pipelines 
   - Developing end-to-end pipeline using AWS
   - Container orchestration to manage and deploy the pipeline efficiently in AWS 
-* :computer: Making progress on -> Multi agents -> Reinforcement learning
+* :computer: Making progress on -> Multi agents with Reinforcement learning
 * :closed_book: Researching ->
     - Boiler plate detection for German Privacy policy
     - Adversarial attacks on AI image detectors
