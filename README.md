@@ -20,7 +20,7 @@
 | 🗓️ Date | 🏅 Achievement | 🌍 Event |
 |--------|----------------|----------|
 | Jun 2025 | 🏆 Winner | **AI Hackathon**, Karlsruhe, Germany |
-| May 2025 | 🏆 First Runner-Up | **HackXplore - Würth Elektronik Challenge**, Karlsruhe, Germany |
+| May 2025 | 🥈 First Runner-Up | **HackXplore - Würth Elektronik Challenge**, Karlsruhe, Germany |
 | Apr 2025 | 🥈 First Runner-Up | **Q Hack Exxeta AI Challenge**, Mannheim, Germany |
 | Jan 2025 | 🥈 First Runner-Up | **AI Hackathon @ World Economic Forum**, Davos, Switzerland |
 | Aug 2024 | 🏆 Theme Winner | **JIVs Hackathon on Data & AI**, Kreuzlingen, Switzerland |
