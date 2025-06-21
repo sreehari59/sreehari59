@@ -17,15 +17,15 @@
 ---
 
 ### 🏆 Hackathon Highlights
-| 🗓️ Date | 🏅 Achievement | 🌍 Event |
-|--------|----------------|----------|
-| Jun 2025 | 🏆 Winner | **AI Hackathon**, Karlsruhe, Germany |
-| May 2025 | 🥈 First Runner-Up | **HackXplore - Würth Elektronik Challenge**, Karlsruhe, Germany |
-| Apr 2025 | 🥈 First Runner-Up | **Q Hack Exxeta AI Challenge**, Mannheim, Germany |
-| Jan 2025 | 🥈 First Runner-Up | **AI Hackathon @ World Economic Forum**, Davos, Switzerland |
-| Aug 2024 | 🏆 Theme Winner | **JIVs Hackathon on Data & AI**, Kreuzlingen, Switzerland |
-| Nov 2023 | 🥈 Runner-Up | **Data Science Datathon by STADS**, Mannheim, Germany |
-| Nov 2023 | 🎯 Finalist | **Eclipse SDV Hackathon for Programming & AI**, Munich, Germany |
+| 🗓️ Date | 🏅 Achievement | 🌍 Event | 📁 Project |
+|--------|----------------|----------|----------|
+| Jun 2025 | 🏆 Winner | **AI Hackathon**, Karlsruhe, Germany | [ProjectDebait](https://github.com/sreehari59/ProjectDebait) |
+| May 2025 | 🥈 First Runner-Up | **HackXplore - Würth Elektronik Challenge**, Karlsruhe, Germany | [WEMA](https://github.com/sreehari59/HackXplore) |
+| Apr 2025 | 🥈 First Runner-Up | **Q Hack Exxeta AI Challenge**, Mannheim, Germany | [Agentic RecSys](https://github.com/sreehari59/Talenta_QSummitHack) |
+| Jan 2025 | 🥈 First Runner-Up | **AI Hackathon @ World Economic Forum**, Davos, Switzerland | [Jivs -ZENIX](https://github.com/tyagiprnv/Jivs-WEF-Hackathon) |
+| Aug 2024 | 🏆 Theme Winner | **JIVs Hackathon on Data & AI**, Kreuzlingen, Switzerland | [AI Recsys](https://github.com/AakritiiIstwal/jivs_hackathon) |
+| Nov 2023 | 🥈 Runner-Up | **Data Science Datathon by STADS**, Mannheim, Germany | [AI4U](https://github.com/sreehari59/Datathon2023-WaterDamageDetection) |
+| Nov 2023 | 🎯 Finalist | **Eclipse SDV Hackathon for Programming & AI**, Munich, Germany | [IntelliSafe](https://github.com/Eclipse-SDV-Hackathon-Accenture/IntelliSafe) |
 
 > 💬 *"Hackathons aren't just events. They're adrenaline-packed innovation sprints!"*
 
