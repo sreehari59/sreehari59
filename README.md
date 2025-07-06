@@ -19,6 +19,7 @@
 ### 🏆 Hackathon Highlights
 | 🗓️ Date | 🏅 Achievement | 🌍 Event | 📁 Project |
 |--------|----------------|----------|----------|
+| July 2025 | 🏆 Winner | **AI Search Analytics Hackathon**, Berlin, Germany | [PeecAI 2.0](https://github.com/sreehari59/AI-Search-Analytics-Hackathon) |
 | Jun 2025 | 🏆 Winner | **AI Hackathon**, Karlsruhe, Germany | [ProjectDebait](https://github.com/sreehari59/ProjectDebait) |
 | May 2025 | 🥈 First Runner-Up | **HackXplore - Würth Elektronik Challenge**, Karlsruhe, Germany | [WEMA](https://github.com/sreehari59/HackXplore) |
 | Apr 2025 | 🥈 First Runner-Up | **Q Hack Exxeta AI Challenge**, Mannheim, Germany | [Agentic RecSys](https://github.com/sreehari59/Talenta_QSummitHack) |
