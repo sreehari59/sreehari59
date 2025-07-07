@@ -1,3 +1,7 @@
+# Sreehari Pradeep Kumar -> (Hari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sreeharipradeep/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://sreehari59.github.io/)
+
 ### Hello there 👋👋👋
 
 :warning: Alert!! May cause spontaneous code bursts. Enter at your own risk! :grin: :grin: :grin:
