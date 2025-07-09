@@ -32,8 +32,6 @@
 | Nov 2023 | 🥈 Runner-Up | **Data Science Datathon by STADS**, Mannheim, Germany | [AI4U](https://github.com/sreehari59/Datathon2023-WaterDamageDetection) |
 | Nov 2023 | 🎯 Finalist | **Eclipse SDV Hackathon for Programming & AI**, Munich, Germany | [IntelliSafe](https://github.com/Eclipse-SDV-Hackathon-Accenture/IntelliSafe) |
 
-> 💬 *"Hackathons aren't just events. They're adrenaline-packed innovation sprints!"*
-
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
