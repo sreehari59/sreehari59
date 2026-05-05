@@ -16,7 +16,7 @@
     - Adversarial attacks on AI image detectors
 * :mailbox: Reach me -> Email or linkedin
 * :technologist: Languages and tools used -> <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,git,kubernetes,docker,aws,anaconda,java" />
-* :bulb: -> It's not about how many times you fall that counts. It's about how many times you get back up.
+* :bulb: -> Every Rejection is a chance to Build something Greater
 
 ---
 
