@@ -23,6 +23,7 @@
 ### 🏆 Hackathon Highlights
 | 🗓️ Date | 🏅 Achievement | 🌍 Event | 📁 Project |
 |--------|----------------|----------|----------|
+| Aug 2026 | 🏆 AWS Challenge Winner | **JiVS Hackathon 2026 on Data & AI**, Kreuzlingen, Switzerland | [ASAP](https://github.com/Manasi200801/seeburg-aug-26-strike) |
 | Aug 2025 | 🏆 Theme Winner | **JiVS Hackathon 2025 on Data & AI**, Kreuzlingen, Switzerland | [AnonyfAI](https://github.com/sreehari59/AnonyfAI) |
 | July 2025 | 🏆 Winner | **AI Search Analytics Hackathon**, Berlin, Germany | [PeecAI 2.0](https://github.com/sreehari59/AI-Search-Analytics-Hackathon) |
 | Jun 2025 | 🏆 Winner | **AI Hackathon**, Karlsruhe, Germany | [ProjectDebait](https://github.com/sreehari59/ProjectDebait) |
